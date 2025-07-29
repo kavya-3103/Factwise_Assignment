@@ -2,7 +2,7 @@
   "name": "factwise-dashboard",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://kavya-3103.github.io/factwise-dashboard",
+  "homepage": "https://kavya-3103.github.io/Factwise_Assignment",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
